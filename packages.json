@@ -1,0 +1,12 @@
+{
+  "name": "gares-manager",
+  "version": "1.0.0",
+  "description": "Gestão de Gares e Prestações",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.3"
+  }
+}
